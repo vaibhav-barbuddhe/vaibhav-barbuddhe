@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Vaibhav Barbuddhe  
 
-<!--
-**vaibhav-barbuddhe/vaibhav-barbuddhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **VLSI Engineer | Digital Design & Verification Enthusiast**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me  
+As a **VLSI engineer** with a solid foundation in **digital design and verification**, I am seeking a rewarding role in the **VLSI industry** where I can apply my academic knowledge and hands-on experience with **industry-standard tools**.  
+
+I am eager to **collaborate with dynamic teams**, **drive innovation**, and **pursue continuous learning** in the ever-evolving field of **VLSI**.  
+
+---
+
+## 🛠️ Skills & Interests  
+- **Digital Design:** RTL Design, Verilog, SystemVerilog  
+- **Verification:** UVM, Testbench Development  
+- **Tools:** ModelSim, Cadence Xcelium, Synopsys VCS  
+- **Bus Protocols:** AXI, AHB, APB, I2S  
+- **Other Interests:** SoC Design  
+
+---
+
+## 🚀 Goals  
+- Contribute to innovative **SoC and ASIC design** projects  
+- Strengthen expertise in **Verification Methodologies (UVM, Formal, Assertion-Based)**  
+- Stay updated with **emerging VLSI technologies**  
+
+---
+
+## 📫 Connect With Me  
+🌐 [LinkedIn](#)  
+📧 [Email](#)  
+💻 [GitHub](#)  
+
+---
+
+> “Innovation and precision drive the silicon world — and I’m here to be part of that journey.”  
+
